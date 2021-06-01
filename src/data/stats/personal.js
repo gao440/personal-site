@@ -27,7 +27,7 @@ const data = [
   {
     key: 'Height',
     label: 'Current Height',
-    value: '179 cm',
+    value: '180 cm',
   },
   {
     key: 'countries',

@@ -3,23 +3,24 @@ const data = [
   {
     title: 'DeepFreight Map Optimization',
     subtitle: 'Research Team',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    link: 'https://engineering.purdue.edu/VIP/teams/deepfreight',
+    image: '/images/projects/ride.jpeg',
+    date: '2020-01-15',
     desc:
-      'Developed algorithm to optimize the battery charging process for autonomous electric vehicle (EV) services \n'
-      + 'Defined algorithm objective to maximize customers served while avoiding mileage threshold of EV batteries \n'
-      + 'Utilized historical route data from Waze reflecting origin and destination points to train algorithm',
+      'Developed algorithm to optimize the battery charging process for autonomous electric vehicle (EV) services. '
+      + 'Defined algorithm objective to maximize customers served while avoiding mileage threshold of EV batteries. '
+      + 'Utilized historical route data from Waze reflecting origin and destination points to train algorithm. ',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Vibify Playlist Generator',
+    subtitle: 'Mhacks Hackathon',
+    link: 'https://devpost.com/software/vibify-xcszd2',
+    image: '/images/projects/vibify.jpeg',
+    date: '2019-05-05',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Collaborated in a team of 4 to develop a playlist generator using JavaScript and Python. '
+      + 'Utilized Google Cloud Vision API to scan a photo input and generate a related group of keywords. '
+      + 'Integrated Spotify API to create playlist based on generated keywords.',
   },
 ];
 
