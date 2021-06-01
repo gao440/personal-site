@@ -25,14 +25,19 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'Height',
-    label: 'Current Height',
-    value: '180 cm',
+    key: 'Sight',
+    label: 'Current Vision',
+    value: 'Bad',
   },
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 8,
+    value: 6,
+  },
+  {
+    key: 'Hands',
+    label: 'Number of Hands',
+    value: 2,
   },
 ];
 

@@ -1,7 +1,10 @@
 
 # Intro
 
-Hi!! Nice to meet you I'm Charles. I am someone who is passionate about storyelling, Products and learning. 
+Hi!! Nice to meet you I'm Charles. I am someone who is passionate about storytelling, products and learning. In the future I hope to devlop myself and help others along the way!
+
+I am an aspiring Product Manager and Engineer hoping to create a difference. 
+
 
 # Some history
 - I grew up in Northville, Michigan, a suburb of Detriot (Go lions!) 
@@ -23,7 +26,7 @@ Ask me anything in person I would love to share stories!
 - Writing
 - DND
 - Start-ups
-- [Books(goodreads)](https://www.goodreads.com/charlesgao)
+- [Books (goodreads)](https://www.goodreads.com/charlesgao)
 - Reading
 - Podcasts (The GaryVee Audio Experience, Reply All, Startup Podcast, The Pitch and others)
 - [Good design](/)
