@@ -12,8 +12,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            A personal website built with modern Javascript using react.
           </p>
         </div>
       </header>
@@ -23,6 +22,13 @@ const Index = () => (
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
+      </p>
+      <p>
+        The future is not witten in the stars. There are no guarantees.
+        So claim your adulthood. Be intentional. Get to work. Pick your family.
+        Do the math. Make your own certainty. Don’t be defined by what you
+        didn’t know or didn’t do. You are deciding your life right now.<br />
+        - Meg Jay, The Defining Decade
       </p>
       <p> Source available <a href="https://github.com/gao440/personal-site">here</a>.</p>
     </article>

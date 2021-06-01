@@ -19,9 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Charles. I like learning, products, and creating new things.
-        Currently I am a Senior at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> studying Computer Enigneering.
-        I am passionate about learning and developing my analytic skills.
+      <p>Hi, I&apos;m Charles. I enjoy learning, products, and creating new things.
+        Currently, I am a Senior at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> studying Computer Engineering.
+        I am passionate about learning new things and developing my analytic skills.
       </p>
       <ul className="actions">
         <li>
