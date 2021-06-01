@@ -5,16 +5,16 @@ on:
     branches: [ main ]
 jobs:
   depoy:
-    runs-on: ubuntu-latest
+    runs-on: usx-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v2
       with:
         persist-credentials: false
-    - name: Use Node 15
+    - name: Use Node 12
       uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: 12.22.1
     - name: Install
       run: npm ci
     - name: Build and Deploy
