@@ -13,13 +13,13 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Charles Gao</h2>
-        <p><a href="mailto:gao440@purdue.com">gao440@purdue.com</a></p>
+        <p><a href="mailto:gao440@purdue.com">gao440@purdue.edu</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Charles. I enjoy learning, products, and creating new things.
+      <p>Hi, I&apos;m Charles. I enjoy learning, creating products, and creating new things.
         Currently, I am a Senior at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> studying Computer Engineering.
         I am passionate about learning new things and developing my analytic skills.
       </p>
@@ -32,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Charles Gao <Link to="/">gao440.com</Link>.</p>
+      <p className="copyright">&copy; Charles Gao <Link to="/">charlesgao.page</Link>.</p>
     </section>
   </section>
 );
