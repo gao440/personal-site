@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://gao440.github.io/personal-site/"
+    "url": "https://github.com/gao440/personal-web.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",

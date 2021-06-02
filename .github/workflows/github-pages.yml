@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 jobs:
   depoy:
-    runs-on: usx-latest
+    runs-on: oxs-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v2
@@ -14,14 +14,12 @@ jobs:
     - name: Use Node 12
       uses: actions/setup-node@v1
       with:
-        node-version: 12.22.1
+        node-version: 14.x
     - name: Install
       run: npm ci
     - name: Build and Deploy
       env:
         NODE_ENV: production
-        # Remove this line if you would like to skip using google analytics
-        REACT_APP_GA_TRACKING_ID: UA-68649021-1
         # This is set automatically by github
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: | 
