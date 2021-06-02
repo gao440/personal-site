@@ -1,7 +1,7 @@
 
 # Intro
 
-Hi! Nice to meet you I'm Charles. I am someone who is passionate about storytelling, products and learning. In the future I hope to devlop myself and help others along the way!
+Hi! Nice to meet you I'm Charles. I am someone who is passionate about storytelling, product development, and learning. In the future I hope to develop myself and help others along the way!
 
 I am an aspiring Product Manager and Engineer hoping to create a difference. 
 
