@@ -25,7 +25,7 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'Sight',
+    key: 'sight',
     label: 'Current Vision',
     value: 'Bad',
   },
@@ -35,9 +35,19 @@ const data = [
     value: 6,
   },
   {
-    key: 'Hands',
+    key: 'hands',
     label: 'Number of Hands',
     value: 2,
+  },
+  {
+    key: 'armor',
+    label: 'Armor',
+    value: 'Light Fabric',
+  },
+  {
+    key: 'type',
+    label: 'Type',
+    value: 'unsigned char',
   },
 ];
 

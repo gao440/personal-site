@@ -1,5 +1,18 @@
 const positions = [
   {
+    company: 'Ecotron',
+    position: 'Project Engineering Intern',
+    link: 'https://www.ecotron.ai/',
+    daterange: 'June 2021 - Present',
+    points: [
+      'Helped the project manager to maintain the project status, follow up with customers, and support the internal team for deliverables',
+      'Receive client product expectations and demands so that they can be implemented into internal team production',
+      'Assisted in project management and product development to hit specified deadlines for ADAS and ADCU units',
+      'Communicated with Chinese engineering and manufacturing team for project and product updates',
+      'Managed and help create the internal customer database organizer built in python',
+    ],
+  },
+  {
     company: 'Optimal Engineering',
     position: 'Engineering Intern',
     link: 'https://www.optimalinc.com/',

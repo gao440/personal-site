@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Charles. I enjoy learning, developing products, and creating new things.
         Currently, I am a Senior at <a href="https://engineering.purdue.edu/ECE">Purdue University</a> studying Computer Engineering.
-        I am passionate about learning about new things and developing my analytic skills.
+        I am passionate about learning about new things and developing my analytical skills.
       </p>
       <ul className="actions">
         <li>

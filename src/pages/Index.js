@@ -24,7 +24,7 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
       <p>
-        The future is not witten in the stars. There are no guarantees.
+        The future is not written in the stars. There are no guarantees.
         So claim your adulthood. Be intentional. Get to work. Pick your family.
         Do the math. Make your own certainty. Don’t be defined by what you
         didn’t know or didn’t do. You are deciding your life right now.<br />
