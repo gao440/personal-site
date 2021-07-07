@@ -27,6 +27,7 @@ Run the following command to build the react application and serve it with fast 
 ```bash
 npm start
 ```
+If you are using arm64 chip try using "env FAST_REFRESH=false npm start"
 
 Your web browser should automatically open to `<ip>:<port>:<path>` default: [http://localhost:3000/](http://localhost:3000/).
 
