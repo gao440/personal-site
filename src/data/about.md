@@ -1,19 +1,22 @@
 
 # Intro
 
-Hi! Nice to meet you I'm Charles. I am someone who is passionate about storytelling, product development, and learning. In the future I hope to develop myself and help others along the way!
+Hi! Nice to meet you I'm Charles. I am someone who is passionate about storytelling, understanding, product development, and learning. In the future I hope to develop myself and help others along the way!
 
-I am an aspiring Product Manager and Engineer hoping to create a difference. 
-
-
-# Some history
+# Me
+As a child, I grew up adoring many of the great silicon valley tech founders (Tony Hsieh, Brian Chesky, Evan Spiegel, Peter Thiel, Johns & Patrick Collison, and Sam Altman). To be honest, at first, I may have been drawn to the glitz and glamour that these founders had. But my reason for being interested in them quickly changed as I started to read and watch hours of their lectures and talks done at Techcrunch, Stanford, and YC. As I learned more about them, I grew more to love their abilities to create and change the world around them more than anything else.\
+\
+I was a lazy child. I never really did anything out of my way to create and build the things I was passionate about. It sometimes haunts me sometimes that I never acted on my passion for creation but now as a young adult I won't let my laziness or fears stop me from acting on my passions.\
+\
+I am an aspiring founder, software engineer, product manager hoping to create a difference.
 - I grew up in Northville, Michigan, a suburb of Detriot (Go lions!) 
 - I love the sun
-- I feel in love with the products and the devlopment of them at a 3 day techstars startup event my sophomore year of college
-- I love going to hackathons and trying to make stuff even if it fails.
+- I rediscovered my love for products and development at a 3 day techstars startup event my sophomore year of college
+- I love going to hackathons and trying to make stuff even if it fails (cough cough* free company swag and meeting cool people *cough cough)
 - I grew up playing tennis so I'm a litte competitive
 - I am allergic to cats
 - I have read the Percy Jackson series over 5 times
+- When I was a freshman in highschool I used a 20 visa-prepaid card to buy a year long subscription to Entrepreneur Magazine (I only read the first 2 issues and skimed the rest)
 
 Ask me anything in person I would love to share stories!
 
