@@ -5,11 +5,11 @@ const positions = [
     link: 'https://www.ecotron.ai/',
     daterange: 'June 2021 - Present',
     points: [
-      'Helped the project manager to maintain the project status, follow up with customers, and support the internal team for deliverables',
-      'Receive client product expectations and demands so that they can be implemented into internal team production',
-      'Assisted in project management and product development to hit specified deadlines for ADAS and ADCU units',
-      'Communicated with Chinese engineering and manufacturing team for project and product updates',
-      'Managed and help create the internal customer database organizer built in python',
+      'Project management and product development to hit specified deadlines for automotive microcontrollers',
+      'Maintained product specs through client user research; client interviews, updated hardware PRDs',
+      'Defined hardware and software KPI’s for internal key stakeholders: hardware failure rate, inventory control, cost per unit, customer feedback',
+      'Analyzed markets and compiled report on autonomous driving controller unit market; allowed teams to make informed decisions for product vision, customer expectations, and marketing strategies',
+      'Created Pitch Deck leading to $5 million in investments',
     ],
   },
   {
