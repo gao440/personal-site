@@ -21,7 +21,7 @@ I am an aspiring founder, software engineer, product manager hoping to create a 
 Ask me anything in person I would love to share stories!
 
 - As a Gen Z I was raised on the internet here of some of my favorite youtubers and or websites!!
-([Nathaniel Drew](https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg) , [Matt D'Avella](https://www.youtube.com/user/blackboxfilmcompany), [Ali Abdaal](https://www.youtube.com/user/Sepharoth64), [Ben Awad](https://www.youtube.com/user/99baddawg), [Elliot Choy](https://www.youtube.com/channel/UCaQocIkdhh8TIi56LvLoViA), [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw))
+([Nathaniel Drew](https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg) , [Matt D'Avella](https://www.youtube.com/user/blackboxfilmcompany), [Ali Abdaal](https://www.youtube.com/user/Sepharoth64), [Ben Awad](https://www.youtube.com/user/99baddawg), [Elliot Choy](https://www.youtube.com/channel/UCaQocIkdhh8TIi56LvLoViA))
 
 # I like and do in my free time
 
@@ -31,12 +31,12 @@ Ask me anything in person I would love to share stories!
 - Start-ups
 - [Books (goodreads)](https://www.goodreads.com/charlesgao)
 - Reading
-- Podcasts (The GaryVee Audio Experience, Reply All, Startup Podcast, The Pitch and others)
+- Podcasts (Reply All, Startup Podcast, The Pitch, MFM and others)
 - [Good design](/)
 - Photography
 - Youtube(Nathaniel Drew, Matt D'Avella, Ali Abdaal, Ben Awad)
 - Games (Valorant, Overwatch, Apex Legends and more)
-- Tiktok(Yes, Yes I do waste some time on here but there are some great Software and Product Manager learning opportunties on Tiktok, [Cherie Luo](https://www.tiktok.com/@cherie.brooke?lang=en) [Productgal](ttps://www.tiktok.com/@productgal?lang=en))
+- Tiktok(Yes, Yes I do waste some time on here but there are some great Software and Product Manager learning opportunties on Tiktok, [Cherie Luo](https://www.tiktok.com/@cherie.brooke?lang=en))
 
 # Fun facts
 
